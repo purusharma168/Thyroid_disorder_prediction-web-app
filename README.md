@@ -78,6 +78,8 @@ Export Prediction to CSV : Finally when we get all the prediction for client dat
 =================================================
 Thyroid disease detection Web App 
 
+URL: https://puru-thyroid-disease-app.herokuapp.com/
+
 
 
 
